@@ -6,9 +6,9 @@
 
 <h1>你好，我是牛顿第一定律 👋</h1>
 
-<p><em>用最原始的方式学后端：PHP 8 + SQLite，不装框架、不装依赖，写完就能跑。</em></p>
+<p><em>学生一枚，最近在学 Java；顺手用原生 PHP 写了个双击就能打开的教学站。</em></p>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=900&color=89B4FA&center=true&vCenter=true&width=640&height=45&lines=Zero+dependencies.+Just+PHP.;Building+small+tools+that+run+offline;Still+learning%2C+still+committing" alt="" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=900&color=89B4FA&center=true&vCenter=true&width=660&height=45&lines=Learning+Java+these+days;PHP+%2B+SQLite%2C+zero+dependencies;AstrBot+%C2%B7+music+%C2%B7+lighting+%C2%B7+camera" alt="" />
 
 <p>
 <img src="https://komarev.com/ghpvc/?username=NASA11123&label=PROFILE+VIEWS&color=89b4fa&style=flat-square" alt="views" />
@@ -23,11 +23,21 @@
 
 | | |
 | :-- | :-- |
-| 🌟 **从这儿开始** | 2024 年 9 月注册，第一个认真写完的项目就是下面那个 |
-| 🌱 **现在在折腾** | 原生 PHP 8 · SQLite · Shell 脚本 · Linux 上自建服务 |
-| 🧩 **我的偏好** | 标准库能解决的绝不引第三方包；能离线跑的绝不挂 CDN |
+| 🎓 **身份** | 学生 · 正在学 Java |
+| 📍 **坐标** | 广东 |
+| 🌱 **在折腾** | Java 基础 · 原生 PHP 8 · SQLite · Linux 上自建小服务 |
+| 🧩 **偏好** | 标准库能解决的绝不引第三方包；能离线跑的绝不挂 CDN |
+| 📫 **找我** | B站 [@刺客小龙不正经啊](https://space.bilibili.com/1834519023) · QQ 群 `1127759697` |
 
-> 我喜欢把东西做完做整：一个不用装任何环境、下载下来 `./start.sh` 就能打开的项目，比十个半成品更让我踏实。
+## 🎈 写代码之外
+
+- 🤖 **QQ 群机器人** —— 拿 [AstrBot](https://github.com/AstrBotDevs/AstrBot) 给自己的群搭了个机器人，群里的自动回复都归它管
+- 🎹 **编曲 / 修音** —— 会一点，能帮朋友把录好的东西收拾得干净些
+- 💡 **演出灯光** —— 玩过灯光控制台，属于「能把一场演出按流程跑完」的水平
+- 📷 **摄像** —— 喜欢拍，也喜欢剪
+- 🧪 **爱折腾** —— 看见新鲜小玩意就想上手，因此攒了一堆半成品……所以才逼着自己把下面那个项目写完整
+
+> 与其收藏一堆教程，不如自己写出一个能跑起来的东西。
 
 ---
 
@@ -35,8 +45,9 @@
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=php,sqlite,html,css,js,bash,git,linux,vscode&theme=dark" alt="stack" />
+<img src="https://skillicons.dev/icons?i=java,php,sqlite,html,css,js,bash,git,linux,vscode&theme=dark" alt="stack" />
 
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="java" />
 <img src="https://img.shields.io/badge/PHP_8-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="php" />
 <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="sqlite" />
 <img src="https://img.shields.io/badge/Shell-1E1E2E?style=for-the-badge&logo=gnubash&logoColor=white" alt="bash" />
@@ -90,6 +101,6 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:cba6f7,100:89b4fa&height=120&section=footer" alt="" width="100%" />
 
-<sub>「与其收藏一堆教程，不如自己写出一个能跑起来的东西。」</sub>
+<sub>想折腾的东西太多，至少得有一件是做完的。</sub>
 
 </div>
